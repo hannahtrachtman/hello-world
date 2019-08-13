@@ -1,2 +1,2 @@
 # hello-world
-practicing!
+This is for practicing Git and GitHub!
